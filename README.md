@@ -1,4 +1,4 @@
-# Anuj Nautiyal - Professional Portfolio Website
+# Rupam Fedujwar - Professional Portfolio Website
 
 A modern, responsive multi-page website showcasing the academic and professional portfolio of Anuj Nautiyal, Research Scholar in Transportation Engineering at IIT Roorkee.
 
